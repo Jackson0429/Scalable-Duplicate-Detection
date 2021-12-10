@@ -1,5 +1,7 @@
 # Scalable-Duplicate-Detection-Method
-The R code for the computer science individual assignment. The link to the data: https://personal.eur.nl/frasincar/datasets/TVs-all-merged.zip
+The R code for the computer science individual assignment. 
+
+The link to the data: https://personal.eur.nl/frasincar/datasets/TVs-all-merged.zip
 
 ## Description of the assignment
 This repository contains the R code for the indivdual assignment of the course Computer Science for Business Analytics (FEM21037) at the Erasmus University Rotterdam. 
