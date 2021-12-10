@@ -25,4 +25,13 @@ A function which performs the whole LSH algorithm. The output is a list with the
 The function that performs mine modified Multi-Component Similarity Method. The output is a matrix with dissimilarity values for each candidate pair.
 
 ### TRAINING
-This is where the output for the LSH is constructed 
+In the first part the output for the LSH is constructed for the different bootstraps and threshold values t. In the second part the whole algorithm is run for different bootstraps, threshold values t and epsilon values.
+
+### TESTING
+This is where the whole algorithm is tested with the optimal epsilon values found in the TRAINING section.
+
+### THE PLOTS
+Finally, in this section the plots given in the paper are plotted.
+
+
+
