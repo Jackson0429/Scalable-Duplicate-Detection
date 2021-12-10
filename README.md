@@ -1,4 +1,4 @@
-# Scalable-Duplicate-Detection-Method
+# Scalable-Duplicate-Detection
 The R code for the computer science individual assignment. 
 
 The link to the data: https://personal.eur.nl/frasincar/datasets/TVs-all-merged.zip
